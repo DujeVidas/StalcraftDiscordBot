@@ -12,7 +12,7 @@ const client =new Client({
 
 
 client.on('ready', () =>{
-    console.log('Readyy')
+    console.log('Setting up')
 })
 
 client.on('messageCreate', message =>{
