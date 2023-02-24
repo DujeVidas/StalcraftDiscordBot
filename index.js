@@ -12,7 +12,7 @@ const client =new Client({
 
 
 client.on('ready', () =>{
-    console.log('Setting up')
+    console.log('Setting up opet jebiga')
 })
 
 client.on('messageCreate', message =>{
